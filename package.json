@@ -1,0 +1,16 @@
+{
+  "name": "backend-dp-2024",
+  "version": "1.0.0",
+  "description": "Um diretório para todas as atividades do semestre na disciplina de Backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.4"
+  }
+}
